@@ -61,15 +61,18 @@ The following USRs are modified for the purposes of deployment:
 
 ## Command Dice:
 At the start of each Player Phase, the active player rolls 5 Command Dice. Note: multiple rolls of 6 must combine to the largest result on the following table:
-  1: Deploy or activate Team
-  2: Deploy or activate Squad
-  3: Deploy (with unit) or activate Junior leader
-  4: Deploy (with unit) or activate Senior leader
-  5: +1CP/Command point to be spent on stratagems (below)
-  6x1: Wildcard (any above)
-    6x2: Take next phase
-    6x3: Game turn ends, take next phase
-    6x3: Game turn ends, random event, take next phase
+
+| Roll | Effect
+|------|------------------
+|1| Deploy or activate Team
+|2| Deploy or activate Squad
+|3| Deploy (with unit) or activate Junior leader
+|4| Deploy (with unit) or activate Senior leader
+|5| +1CP/Command point to be spent on stratagems (below)
+|6x1| Wildcard (any above)
+|6x2| Take next phase
+|6x3| Game turn ends, take next phase
+|6x3| Game turn ends, random event, take next phase
 
 ## Stratagems:
 | CP| Effect
@@ -117,13 +120,14 @@ Unit movement makes use of a combination of a model's Movement (M) and Initiativ
 | Warlord |   4    |  12   |  4
 
 When an Officer activates, he may spend an order on a unit:
+
 | CP| Effect
 |---|-------------------------------------------
-1: Activate Unit (may move with unit)
-1: Place Unit that has not Activated on Overwatch
-1: Create and Activate new Fireteam with any number of models from attached unit
-1: Transfer 1 model to existing Fireteam
-1: Remove 1 shock from unit in Command Range
+| 1 | Activate Unit (may move with unit)
+| 1 | Place Unit that has not Activated on Overwatch
+| 1 | Create and Activate new Fireteam with any number of models from attached unit
+| 1 | Transfer 1 model to existing Fireteam
+| 1 | Remove 1 shock from unit in Command Range
 
 ## Force Morale:
 Starting: Average Unit Ld (Rounded up)
@@ -191,8 +195,6 @@ point where it will turn) when nominating the entry and exit point from the tabl
 dancer may always choose to attack the side armour of an enemy plane.
 
 ### Scenarios:
-//TODO: Remake images
-
 
 #### Scenario 1: The Patrol
 ![Scenario 1](scenario1.png)
