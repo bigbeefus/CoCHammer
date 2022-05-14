@@ -194,92 +194,97 @@ dancer may always choose to attack the side armour of an enemy plane.
 //TODO: Remake images
 
 
+#### Scenario 1: The Patrol
 ![Scenario 1](scenario1.png)
-#### INTRODUCTION
+##### Introduction
 This game is the classic encounter in No‐Man’s‐
 Land: your mission is to deny your opponent this
 critical ground between the main lines of
 defence.
-#### THE PATROL PHASE
+##### The Patrol Phase
 Each player selects a long table edge for their deployment and divides it into three even segments (24").
 Each player rolls a d3 and uses the center of the corresponding segment as the entry point for the Patrol Phase.
 Each player chooses whether to start the game with three or four Patrol Markers.
 At the end of the Patrol Phase both players  place three Jump‐Off Points on the table.
-#### FORCE SUPPORT
+##### Force Support
 Each player receives d3*50 points of support.
 Neither side may select entrenchments, static defences or a preliminary barrage as their choices.
-#### OBJECTIVE
+##### Objective
 To win a victory, one side must force his opponent to withdraw from the table (either voluntarily or due to a reduction in his Force Morale) whilst keeping his own Force Morale at 3 or greater.
 If neither side achieves this, both armies withdraw, neither gaining control of No‐Man’s‐Land and the result being a dishonourable draw.
 The side with the higher Force Morale will be the active player in the first Phase of the game.
 
+#### Scenario 2: The Probe
 ![Scenario 2](scenario2.png)
-#### INTRODUCTION
+##### Introduction
 This game represents the cut and thrust of close combat in No‐Man’s‐Land ‐ one side advancing in an attempt to identify and find a route through the enemy’s outposts and push on towards their main line of resistance.
 Maybe on the slopes of Monte Cassino or approaching the Deputy Commissioner’s Bungalow at Kohima.
-#### THE PATROL PHASE
+##### The Patrol Phase
 The defender deploys four Patrol Markers within 12” of his own table edge and within 12” of at least one other friendly Patrol Marker.
 The attacker enters at a single entry point of his choosing on his own table edge.
 At the start of the Patrol phase, the attacker makes d3+1 moves with his Patrol Markers.
 At the end of the Patrol Phase, both players place three Jump‐Off Points.
-#### FORCE SUPPORT
+##### Force Support
 The attacker receives d6*50 additional points of support, with the defender receiving half of that value.
 The attacker may not select entrenchments, static defences or a preliminary barrage as his choices.
 The defender may not select a preliminary barrage among his choices.
-#### OBJECTIVE
+##### Objective
 The attacker’s objective is to move one Team to the enemy base line.
 If this is achieved then the game ends as a victory for the attacker, any other result is a victory for the defender.
 The side with the higher Force Morale will be the active player in the first Phase of the game.
 
+#### Scenario 3: Attack and Defend
 ![Scenario 3](scenario3.png)
 
-#### INTRODUCTION
+##### Introduction
 This is a major advance against a known enemy position in their main line of defence, with a view to driving off the enemy.
 This could be the final assault on Hill 112 or an attack on the Mareth Line in Tunisia or the drive into Bastogne.
-#### THE PATROL PHASE
+##### The Patrol Phase
 The defender deploys four Patrol Markers within 18” of his own table edge and within 12” of at least one other friendly Patrol Marker.
 The attacker enters on a broad front anywhere on their table edge, as indicated by the red arrow on the map, with four Patrol Markers.
 The attacker rolls 1D6 before the Patrol Phase begins.
 The number rolled is the number of moves which the attacker immediately takes with his Patrol Markers.
 At the end of the Patrol Phase both players will place three Jump‐Off Points on the table.
-#### FORCE SUPPORT
+##### Force Support
 The attacker receives 2d6*50pts, up to 500.
 The defender takes support from the List with half of that value, rounding down any odd number.
 The attacker has no restrictions on his support choices.
 The defender may not select a preliminary barrage among his choices.
-#### OBJECTIVE
+##### Objective
 To win a victory, one side must force his opponent to withdraw from the table, (either voluntarily or due to a reduction in his Force
 Morale) whilst keeping his own Force Morale at 3 or greater.
 If neither side achieves this both will withdraw, with  neither gaining control of No‐man’s‐land and the result being a dishonourable draw.
 The side with the higher Force Morale will be the active player in the first Phase of the game.
 
+#### Scenario 4: Delaying Action
 ![Scenario 4](scenario4.png)
 
-#### INTRODUCTION
+##### Introduction
 In this scenario, a somewhat disordered defender is attempting to blunt the advance of a stronger attacker.
 Barbarossa 1941 and a desperate Soviet force holding off the German invader, or a US force holding a vital road in the Ardennes.
 This scenario must be played across the table lengthways, as shown.
-#### THE PATROL PHASE
+##### The Patrol Phase
 The defender starts with three Patrol Markers placed within the shaded area which is 6” by 36” in dimensions and located 6” from his friendly table edge.
 These Patrol Markers must be a minimum of 6” apart, but may be placed by the defender as he wishes before the Patrol Phase begins.
 The attacker enters the table with four Patrol Markers at any single point the player wishes on his table edge, as indicated by the red arrow.
 The Patrol Phase begins then.
 Once the Patrol Phase ends with one side locked down, the Jump‐Off Points are deployed; the defender player placing two, the attacker three.
 The defender will then place a third Jump‐Off Point anywhere in the shaded area.
-#### FORCE SUPPORT
+##### Force Support
 The attacker receives 2d6*50pts, up to 500.
 The defender takes support from the List with half of that value, rounding down any odd number.
 The attacker has no restrictions on his support choices.
 The defender may not select entrenchments, static defences or a preliminary barrage among his choices
-#### OBJECTIVE
+##### Objective
 To win a victory the attacker must capture one Jump‐Off Point in the grey area and hold it until the end of the Turn. Any other result is a victory for the defender.
 The attacker will be the active player in the first Phase of the game.
 
+#### Scenario 5: The Flank Attack
 ![Scenario 5](scenario5.png)
 
-#### INTRODUCTION
+##### Introduction
 This is where one side, having out‐manoeuvred his enemy, is making a flank attack against an important enemy position.
-#### THE PATROL PHASE
+##### The Patrol Phase
 The defender’s deployment is limited to one quarter of the table, a 36” by 24” area shown by the shaded area above.
 The defender places three Patrol Markers within that area, all within 12” of at least one other friendly Patrol Marker.
 The attacker places two separate groups of three Patrol Markers along the two edges indicated by
@@ -298,10 +303,10 @@ The defender places his three Jump‐Off Points on
 the table and may then add a further fourth
 Jump‐Off Point anywhere within his original
 quarter of the table.
-#### FORCE SUPPORT
+##### Force Support
 The attacker receives 2d6*50 points of support, with the defender receiving half that roll (rounding down) times 50.
 There are no restrictions on support choices for either side.
-#### OBJECTIVE
+##### Objective
 To win a victory, the attacker must force the
 defender to withdraw from the table, either
 voluntarily or due to a reduction in his Force
@@ -310,16 +315,17 @@ more. If he fails, the defender will win.
 The attacker will be the active player in the first
 Phase of the game.
 
+#### Scenario 6: Attack on an Objective
 ![Scenario 6](scenario6.png)
 
-#### INTRODUCTION
+##### Introduction
 This scenario is ideal for recreating a classic
 assault on a defended objective, such as Pegasus
 Bridge, Pavlov’s House in Stalingrad or a
 Command Raid on a cliff‐top radio station.
 Anywhere that one player is attacking a major
 objective held by his opponent.
-#### THE PATROL PHASE
+##### The Patrol Phase
 The table should have a clear objective in the
 final quarter furthest from the attacker,
 somewhere in the shaded area. This should be
@@ -336,10 +342,10 @@ place three Jump‐Off Points. The defender places
 three Jump‐Off Points on the table and may then
 add a further fourth Jump‐Off Point on the
 objective itself.
-#### FORCE SUPPORT
+##### Force Support
 The attacker receives 2d6*50 points of support, with the defender receiving half that roll (rounding down) times 50.
 There are no restrictions on support choices for either side.
-#### OBJECTIVE
+##### Objective
 To win a victory, the attacker must capture the
 game objective and hold it until his opponent is
 obliged to withdraw from the table, either
